@@ -1,6 +1,6 @@
 # PreviewRecyclerView
-[![](https://jitpack.io/v/matsudamper/PreviewRecyclerView.svg)](https://jitpack.io/#matsudamper/PreviewRecyclerView)
-
+[![](https://jitpack.io/v/matsudamper/PreviewRecyclerView.svg)](https://jitpack.io/#matsudamper/PreviewRecyclerView)  
+It is reflected on the screen only at the time of preview. This is useful when configuring screens in RecyclerView.  
 
 # Usage
 <table>
