@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PreviewRecyclerView">
+        <attr name="preview_1" format="reference" />
+        <attr name="preview_2" format="reference" />
+        <attr name="preview_3" format="reference" />
+        <attr name="preview_4" format="reference" />
+        <attr name="preview_5" format="reference" />
+
+        <attr name="preview_1_span" format="integer" />
+        <attr name="preview_2_span" format="integer" />
+        <attr name="preview_3_span" format="integer" />
+        <attr name="preview_4_span" format="integer" />
+        <attr name="preview_5_span" format="integer" />
+    </declare-styleable>
+</resources>
